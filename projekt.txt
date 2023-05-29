@@ -1,0 +1,4 @@
+Każdy członek zespołu zajmował się pewną częścią projektu. 
+Żeby każdemu z nas było też łatwiej zrozumieć kod osoby piszącej przedtem, 
+po każdym skończeniu swojej określonej części, osoba tłumaczyła go. 
+Na końcu razem sprawdzaliśmy czy nie ma błędów i czy można byłoby kod poprawić.  
